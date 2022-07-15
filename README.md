@@ -1,4 +1,4 @@
-# Lightning-Mobile
+# Lightning-Mobile :phone:
 
 Lightning Mobile, first phone to Lightning Network and Bitcoin.
 
