@@ -1,4 +1,4 @@
-package com.solanamobile.seedvault;
+package com.lightningmobile.seedvault;
 
 import android.app.Activity;
 import android.content.ContentResolver;
