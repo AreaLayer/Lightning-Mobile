@@ -3,3 +3,5 @@ use bitcoin::blockdata::transaction::{Transaction, EcdsaSighashType};
 use bitcoin::util::sighash;
 use bitcoin::consensus::encode;
 use lightning:: blockdata:: script
+use lightning::channel:: script
+use lightning::closechanel:: script
