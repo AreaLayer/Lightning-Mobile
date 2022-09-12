@@ -7,3 +7,4 @@ use lightning::channel:: script
 use lightning::closechanel:: script
 use lightning::testnet::script
 use lightning:mainnet::sript
+use lightning::testnet::script
