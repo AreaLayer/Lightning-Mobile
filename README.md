@@ -6,6 +6,14 @@ Lightning Mobile, first phone to Lightning Network and Bitcoin.
 
 Welcome to the Lightning Mobile. The Lightning Mobile provides key technologies for building Android and iOS applications that can interact with the Lightning Network and Bitcoin.
 
+# Features
+
+DIDs
+
+Nodes
+
+Tor/I2P
+
 # Tech 
 
 *LDK by https://github.com/lightningdevkit/rust-lightning
