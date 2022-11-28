@@ -8,11 +8,11 @@ Welcome to the Lightning Mobile. The Lightning Mobile provides key technologies 
 
 # Features
 
-DIDs
+-DIDs
 
-Nodes
+-Nodes (Core Ligthning)
 
-Tor/I2P
+-Tor/I2P
 
 # Tech 
 
