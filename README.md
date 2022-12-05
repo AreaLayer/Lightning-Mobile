@@ -20,8 +20,8 @@ Welcome to the Lightning Mobile. The Lightning Mobile provides key technologies 
 
 # To-Do
 
--[] SDK
+-[ ] SDK
 
--[] I2P/Tor
+-[ ] I2P/Tor
 
--[] Lightning Store
+-[ ] Lightning Store
