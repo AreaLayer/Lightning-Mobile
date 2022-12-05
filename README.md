@@ -17,3 +17,9 @@ Welcome to the Lightning Mobile. The Lightning Mobile provides key technologies 
 # Tech 
 
 *LDK by https://github.com/lightningdevkit/rust-lightning
+
+# To-Do
+
+-[] SDK
+-[] I2P/Tor
+-[] Lightning Store
