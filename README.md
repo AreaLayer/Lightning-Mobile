@@ -23,3 +23,5 @@ Welcome to the Lightning Mobile. The Lightning Mobile provides key technologies 
 - [ ] SDK
 - [ ] Lightning Store
 - [ ] Mainnet/Testnet
+- [ ] DIDs
+
