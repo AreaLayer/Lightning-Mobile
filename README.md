@@ -24,4 +24,5 @@ Welcome to the Lightning Mobile. The Lightning Mobile provides key technologies 
 - [ ] Lightning Store
 - [ ] Mainnet/Testnet
 - [ ] DIDs
+- [ ] RGB, Storm and Carbonado
 
